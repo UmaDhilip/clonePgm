@@ -5,4 +5,8 @@ Best Wishes!
 Let all your dreams comes true.
 Congrats! You got it!!!!
 I have created branch1
+<<<<<<< HEAD
 Yeah, am doing the changes now when am in the branch1
+=======
+Heh! I have created another branch too!
+>>>>>>> main
