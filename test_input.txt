@@ -10,3 +10,4 @@ Yeah, am doing the changes now when am in the branch1
 =======
 Heh! I have created another branch too!
 >>>>>>> main
+ALL IS WELL
