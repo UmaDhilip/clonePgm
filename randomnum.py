@@ -7,8 +7,8 @@ canvas1 = tk.Canvas(root, width = 300, height = 300)
 canvas1.pack()
 
 def hello ():  
-    start_val = 381
-    end_val = 500
+    start_val = 501
+    end_val = 630
     rObj = random.randrange(int(start_val),int(end_val),1)
 
     label1 = tk.Label(root, text= rObj, fg='green', font=('helvetica', 12, 'bold'))
